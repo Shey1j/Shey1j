@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Oluwaseyi Awotunde 👋
 
 <!--
 **Shey1j/Shey1j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
