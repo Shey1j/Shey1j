@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a Front end Developer, open to work anywhere. I have participated in a number of internships trying to expand my knowledge and get a lot more exposure and experience. I have a Bachelor's Degree in Computer Sciences from the University of Lagos. I am proficient in HTML 5, CSS 3, Bootstrap 4 and JavaScript, worked with React and Redux and recently learned Ruby on Rails.
-🌱 I’m currently learning React and Redux
+🌱 I’m currently learning and trying to master React and Redux
 
 ### Links to things I have worked on the past few months
 
