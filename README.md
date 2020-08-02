@@ -30,7 +30,7 @@ I am a Front end Developer, open to work anywhere. I have participated in a numb
 
 ### ⚡ Fun fact:
 
-I love to dance
+I am left-handed
 
 ### 📫 How to reach me: 
 
