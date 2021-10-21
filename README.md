@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a Front end Engineer. I have participated in a number of internships trying to expand my knowledge and get a lot more exposure and experience. I have a Bachelor's Degree in Computer Sciences from the University of Lagos. I am proficient in HTML 5, CSS 3, Bootstrap 4 and JavaScript, worked with React. I have also had some experience working with NextJs. I recently started learning Vue and Nuxt.
 
-### Links to things I have worked on the past few months
+### Links to things I have worked on
 
 <a href="https://envato-2-0.netlify.app/">https://envato-2-0.netlify.app/</a></br>
 <a href="https://hngi8.netlify.app/pages/about.html">https://hngi8.netlify.app/pages/about.html</a></br>
