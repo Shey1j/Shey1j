@@ -14,18 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Front end Engineer. I have participated in a number of internships trying to expand my knowledge and get a lot more exposure and experience. I have a Bachelor's Degree in Computer Sciences from the University of Lagos. I am proficient in HTML 5, CSS 3, Bootstrap 4 and JavaScript, worked with React. I have also had some experience working with NextJs. I recently started learning Vue and Nuxt.
+I am a Front end Engineer with Bachelor's Degree in Computer Sciences from the University of Lagos. I am proficient in React, Vue 2, Nuxt, a little bit of TypeScript. I have also dabbled in the use of different CSS frameworks, like Bootstrap, Styled Components and different libraries like Ant Design etc. I have also had some experience working with NextJs. I love to learn and try new things. I am a team player and a go-getter. I do not like to give up.
 
-### Links to things I have worked on
-
-<a href="https://envato-2-0.netlify.app/">https://envato-2-0.netlify.app/</a></br>
-<a href="https://hngi8.netlify.app/pages/about.html">https://hngi8.netlify.app/pages/about.html</a></br>
-<a href="https://hngi8.netlify.app/pages/contact.html">https://hngi8.netlify.app/pages/contact.html</a></br>
-<a href="https://hngi8.netlify.app/pages/request-certificate.html">https://hngi8.netlify.app/pages/request-certificate.html</a></br>
-<a href="https://team-new-avengers.netlify.app/landing-page-21.html">https://team-new-avengers.netlify.app/landing-page-21.html</a></br>
-<a href="https://linkedin-redesign.netlify.app/feed%20page/">https://linkedin-redesign.netlify.app/feed%20page/</a></br>
-<a href="https://linkedin-redesign.netlify.app/jobs/index.html">https://linkedin-redesign.netlify.app/jobs/index.html</a></br>
-<a href="https://sleekfeet.netlify.app/index.html">https://sleekfeet.netlify.app/index.html</a>
+### Links to things I have worked on using React
+- A church website: <a href="https://foursquare-gospel-church.netlify.app">Foursquare VGC</a>
+- Got to work on Heirs Holdings websites with API integration, lottie animation and the use of Ant Design:
+  - <a href="https://heirslifeassurance.com">Heirs Life</a>
+  - <a href="https://heirsinsurance.com">Heirs Insurance</a>
 
 ### ⚡ Fun fact:
 
@@ -35,5 +30,5 @@ I love to dance
 ### 📫 How to reach me: 
 
 <a href="mailto:seyi.juliana@gmail.com">seyi.juliana@gmail.com</a></br>
-<a href="https://www.linkedin.com/in/oluwaseyi-awotunde-ba5690149/">LinkedIn</a></br>
+<a href="https://www.linkedin.com/in/oluwaseyi-awotunde/">LinkedIn</a></br>
 <a href="https://twitter.com/SeyiJuliana">Twitter</a>
