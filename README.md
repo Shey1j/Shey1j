@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Front end Engineer with Bachelor's Degree in Computer Sciences from the University of Lagos. I am proficient in React, Vue 2, Nuxt, a little bit of TypeScript. I have also dabbled in the use of different CSS frameworks, like Bootstrap, Styled Components and different libraries like Ant Design etc. I have also had some experience working with NextJs. I love to learn and try new things. I am a team player and a go-getter. I do not like to give up.
+I am a Front end Engineer with Bachelor's Degree in Computer Sciences from the University of Lagos. I am proficient in React, Next, Vue, Nuxt, a little bit of TypeScript. I have also dabbled in the use of different CSS frameworks, like Bootstrap, Styled Components and different libraries like Ant Design etc. I love to learn and try new things. I am a team player and a go-getter.
 
-### Links to things I have worked on using React
-- A church website: <a href="https://foursquare-gospel-church.netlify.app">Foursquare VGC</a>
-- Got to work on Heirs Holdings websites with API integration, lottie animation and the use of Ant Design:
+### Links to things I have worked on
+- A church website with React: <a href="https://foursquare-gospel-church.netlify.app">Foursquare VGC</a>
+- Got to work on Heirs Holdings websites with API integration, lottie animation and the use of Ant Design (React):
   - <a href="https://heirslifeassurance.com">Heirs Life</a>
   - <a href="https://heirsinsurance.com">Heirs Insurance</a>
+- A one-link solution for creatives using Next & TypeScript <a href="https://pagechap.com">Pagechap</a>
+- Recreated Pineapple design landing page on desktop using Nuxt <a href="https://pineapple-recreate.netlify.app">Pineapple Design</a>
 
 ### ⚡ Fun fact:
 
