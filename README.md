@@ -21,7 +21,7 @@ I am a Front end Engineer with Bachelor's Degree in Computer Sciences from the U
 - Got to work on Heirs Holdings websites with API integration, lottie animation and the use of Ant Design (React):
   - <a href="https://heirslifeassurance.com">Heirs Life</a>
   - <a href="https://heirsinsurance.com">Heirs Insurance</a>
-- A one-link solution for creatives using Next & TypeScript <a href="https://pagechap.com">Pagechap</a>
+- A one-link solution for creatives, using Next & TypeScript <a href="https://pagechap.com">Pagechap</a>
 - Recreated Pineapple design landing page on desktop using Nuxt <a href="https://pineapple-recreate.netlify.app">Pineapple Design</a>
 
 ### ⚡ Fun fact:
