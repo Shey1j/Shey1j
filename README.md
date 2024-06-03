@@ -26,8 +26,7 @@ I am a Front end Engineer with Bachelor's Degree in Computer Sciences from the U
 
 ### ⚡ Fun fact:
 
-I am left-handed</br>
-I love to dance
+I am left-handed
 
 ### 📫 How to reach me: 
 
